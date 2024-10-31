@@ -1,5 +1,5 @@
 # Anastasiya Stepuk
-//photo
+![My photo.](/225.jpg)
 
 ## Contact Information
 - **_Address_**: Belarus, Minsk city
