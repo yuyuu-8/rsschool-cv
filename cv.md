@@ -7,7 +7,6 @@
 - **_Email_**: nastyastepuk05@gmail.com
 - **_Telegram_**: [@yuyuu_8](https://t.me/yuyuu_8)
 - **_GitHub_**: [yuyuu-8](https://github.com/yuyuu-8)
-- **_Dribble_**: [yuyuu__8](https://dribbble.com/yuyuu__8)
 
 ## Self Introduction
 _I'm a beginner Frontend Developer with some expirience in Backend Development and Design. Driven by a passion for elegant design solutions and a commitment to continuous improvement, I seek a role that fosters creativity and professional growth. I aim to bring clarity and innovation to every project. In the process of work I learn quickly and have a great desire for professional growth._
