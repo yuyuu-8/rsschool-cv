@@ -82,6 +82,7 @@ export default Home;
 ## Work Experience
 ### **_Projects_**
 1. _Movie Search Engine - [link](https://yuyuu-8.github.io/movie-search)_
+   - A simple movie search engine built with React and Vite. The movies are loaded using (API)[https://www.themoviedb.org]
 2. _Wordpress site - [link](http://taxi7812.by/)_
   - In 3 weeks created and published Wordpress powered site from scratch without experience in platform. Covered all the work with databases, hosting and domain name. Later covered the work with creating ads using Yandex Direct, analyzed data and improved the adds to get more clients.
 
