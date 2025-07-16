@@ -12,8 +12,8 @@
 _I'm a beginner Frontend Developer with some expirience in Backend Development and Design. Driven by a passion for elegant design solutions and a commitment to continuous improvement, I seek a role that fosters creativity and professional growth. I aim to bring clarity and innovation to every project. In the process of work I learn quickly and have a great desire for professional growth._
 
 ## Skills
--  **_Stack:_** JavaScript, HTML5+, CSS3, LaTeX, C++, GO.
--  **_Software:_** VS Code, Visual Studio, Sublime, Codeblocks, RAD Studio, Wordpress, Figma, Adobe Photoshop, Adobe Illustrator.
+-  **_Stack:_** JavaScript, HTML5+, CSS3, C++, GO.
+-  **_Software:_** VS Code, Visual Studio, Sublime, Wordpress, Figma, Adobe Photoshop, Adobe Illustrator.
 -  **_Version control systems:_** Git, GitHub, GitLab.
 -  **_Frameworks:_** React JS.
 
@@ -83,8 +83,10 @@ export default Home;
 ### **_Projects_**
 1. _Movie Search Engine - [link](https://yuyuu-8.github.io/movie-search)_
    - A simple movie search engine built with React and Vite. The movies are loaded using [API](https://www.themoviedb.org)
-2. _Wordpress site - [link](http://taxi7812.by/)_
-  - In 3 weeks created and published Wordpress powered site from scratch without experience in platform. Covered all the work with databases, hosting and domain name. Later covered the work with creating ads using Yandex Direct, analyzed data and improved the adds to get more clients.
+2. _Task manager web app - [link](https://yuyuu-8.github.io/task-manager/)
+   - A simple web task manager, allows users to manage and filter tasks by different criteria such as status, category, and priority. Built with React + Vite + TypeScript, Styling: styled-components (Admiral).
+3. _Wordpress site - [link](http://taxi7812.by/)_
+   - In 3 weeks created and published Wordpress powered site from scratch without experience in platform. Covered all the work with databases, hosting and domain name. Later covered the work with creating ads using Yandex Direct, analyzed data and improved the adds to get more clients.
 
 ## Education
 - **_Higher Education_**
@@ -99,3 +101,7 @@ export default Home;
 - **_Belarusian:_** Native
 - **_Russian:_** Native
 - **_Chinese:_** Intermidiate+
+
+## About me
+_I’m always looking to learn new things and gain fresh experiences. This passion drives both my career
+growth and my personal goals, like exploring the world._
